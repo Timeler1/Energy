@@ -1,6 +1,8 @@
 # Energy Air Bot 2021
 To set up the bot, first of all download python3 from https://www.python.org/downloads/
 
+Then download all 3 files from the github repository (https://github.com/Timeler1/Energy-Air-2021-Bot/), exluding the readme one, and store them in a folder.
+
 make sure to include pip (package installer) when installing python3
 
 open the commandline and run: pip install selenium
