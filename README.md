@@ -7,7 +7,7 @@ open the commandline and run: pip install selenium
 
 execute the command: setx path "%path%;c:\directoryPath\chromedriver.exe" but replace the C:\directoryPath with the path to where you saved the folder.
 
-open the ini.text file and set the path to your user data from chrome C:\Users\USER\AppData\Local\Google\Chrome\User Data (should look like this)
+open the ini.text file and insert the path to your user data from chrome C:\Users\USER\AppData\Local\Google\Chrome\User Data (should look like this)
 
 open chrome and open https://game.energy.ch/
 
