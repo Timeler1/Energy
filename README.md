@@ -23,6 +23,6 @@ you'll see how the bot does the work for you, as soon as you win it will eventua
 Disclaimer: I dont take any responsibility for what Energy might take as a counter measure. To use this Bot is against AGB and can get you banned from the competition and eventual wins can be removed (though i doubt they can detect it :D)
 GLHF
 
-The Energy-Air-Game-Bot was written for pure academic purposes and should not be used to play the Energy Air Game as it is unfair. Use the bot at your own risk.
+The Energy-Air-2021-Bot was written for pure academic purposes and should not be used to play the Energy Air Game as it is unfair. Use the bot at your own risk.
 
 If you have questions, add me on discord Timeler#8283
