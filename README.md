@@ -9,6 +9,7 @@ log in and navigate, until the first question comes up
 close chrome and run the python script
 you'll see how the bot does the work for you, as soon as you win it will eventually stop or you'll simply get a text message on phone.
 
+
 Disclaimer: I dont take any responsibility for what Energy might take as a counter measure. To use this Bot is against AGB and can get you banned from the competition and eventual wins can be removed (though i doubt they can detect it :D)
 GLHF
 
